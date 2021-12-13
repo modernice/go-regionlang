@@ -1,4 +1,4 @@
-# go-regionlang - Detect languages from regions / countries
+# go-regionlang - Detect languages from countries / regions
 
 ```sh
 go get github.com/modernice/go-regionlang
