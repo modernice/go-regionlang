@@ -1,4 +1,4 @@
-# regionlang - Language Detection from Countries or Regions
+# regionlang - Country/Region to Language Mapper
 
 `regionlang` is a Go library that aids in determining the language associated with a given country or region. It comes in handy when you need to localize messages for users whose language preference is unknown.
 
